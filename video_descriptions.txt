@@ -1,48 +1,28 @@
-#datascience  #KenJee 
-Some changes are coming. I feel like I owe it to everyone who has been on this journey to explain a few things. 
+This is part 1 of my new series, Data Science Project from Scratch. In this video I go through the planning and idea creation for this new data science project. 
 
-The Exponential Athlete Podcast:
-YouTube - @ExponentialAthlete 
-Spotify - https://open.spotify.com/show/4XmCCYsVVOVmRavFYT5b1C 
-Apple - https://podcasts.apple.com/us/podcast/the-exponential-athlete/id1726985417 
+I have gotten quite a few requests to do data science project from scratch. I also left these series mostly unedited so you can see me get stuck and how I figure out the path forward. 
 
-Ken's Nearest Neighbors Podcast:
-YouTube - @KNNPodcast 
-Spotify - https://open.spotify.com/show/7fJsuxiZl4TS1hqPUmDFbl?si=97427f5d628d4af6
-Apple - https://podcasts.apple.com/us/podcast/kens-nearest-neighbors/id1538368692
+The next phases of the project are, data collection, data cleaning, eda, model building, and productionzation. 
 
-Sponsors, Affiliates, and Partners:
-- Pathrise - http://pathrise.com/KenJee | Career mentorship for job applicants (Free till you land a job)
-- Taro - http://jointaro.com/r/kenj308 (20% discount) | Career mentorship if you already have a job 
-- 365 Data Science (57% discount) - https://365datascience.pxf.io/P0jbBY | Learn data science today
-- Interview Query (10% discount) - https://www.interviewquery.com/?ref=kenjee |  Interview prep questions
+For data science project ideation, you generally have two approaches. You can look through available data on kaggle or google data, or you can come up with an idea and then go out and find your data. In this video, I show you how to do both approaches.
 
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
+I end up choosing a data science project based on a simple whiteboarding session. We will try to predict data science salaries based on data scraped from glassdoor or linkedin. 
 
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
+In part 2 I will show you how to scrape your data and how to set up a github repo. 
 
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee 
-Do I have a higher IQ than ChatGPT? I wanted to find out! Watch this video to answer the question: What is ChatGPT's IQ. 
+Project from scratch playlist: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
+My other project playlist: https://www.youtube.com/playlist?list=PL2zq7klxX5AReJn7nZfqOKLZ3IpKj7fwc
 
-Check out RaskAI here: https://bit.ly/rask_ken Use "KEN20" for 20% off! 
+#DataScience #KenJee #DataScienceProject
+⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
+🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
+🕸 Check out My Website - https://kennethjee.com/
+✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
+📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
 
-Sponsors, Affiliates, and Partners:
-- Pathrise - http://pathrise.com/KenJee | Career mentorship for job applicants (Free till you land a job)
-- Taro - http://jointaro.com/r/kenj308 (20% discount) | Career mentorship if you already have a job 
-- 365 Data Science (57% discount) - https://365datascience.pxf.io/P0jbBY | Learn data science today
-- Interview Query (10% discount) - https://www.interviewquery.com/?ref=kenjee |  Interview prep questions
+Partners & Affiliates 
+🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
+🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
 
 MORE DATA SCIENCE CONTENT HERE:
 🐤My Twitter - https://twitter.com/KenJee_DS
@@ -60,52 +40,40 @@ How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6n
 My Playlists 
 Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
 Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #datascience  #KenJee 
-I gave up on my dream of playing professional golf 10 years ago. Recently, I had the opportunity to relive this through my data science and content work. Through this video, I also had the ability to reflect on how Data and AI are transforming golf while keeping the spirit of the game alive.  Special thanks to SAS for making this possible! 
+Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO This is part two of the new Data Science Project from Scratch Series. In this video I go through how to setup a github repo and collect data for your own data science project. 
 
-Sponsors, Affiliates, and Partners:
-- Pathrise - http://pathrise.com/KenJee | Career mentorship for job applicants (Free till you land a job)
-- Taro - http://jointaro.com/r/kenj308 (20% discount) | Career mentorship if you already have a job 
-- 365 Data Science (57% discount) - https://365datascience.pxf.io/P0jbBY | Learn data science today
-- Interview Query (10% discount) - https://www.interviewquery.com/?ref=kenjee |  Interview prep questions
+github repo for this project: https://github.com/PlayingNumbers/ds_salary_proj
+How to set up data science environment: https://www.youtube.com/watch?v=C4OPn58BLaU
+Chrome Driver Link: https://chromedriver.chromium.org/
 
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
+Data collection can be a tedious and frustrating process, but you don't necessarily have to start from scratch. You should search github to see if someone has already built a web scraper for the website you are looking at. You should also check to see if the website has an open API. 
 
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
+For this project, I found someone who had written a glassdoor web scraper and I was able to version it for our purposes. The code and the article that I used are linked here:
+Code: https://github.com/arapfaik/scraping-glassdoor-selenium
+Article: https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
 
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #KenJee #jobs 
-Build your new website in seconds leveraging the power of AI at : https://shorturl.at/oBJU6
+This web scraper was written in python with the selinium package. 
 
-Companies have been selling a lie about full time work. They say that they're your "family" then turn around and fire you to show more profitability this quarter. In this video I give my take on how contracting is actually a safer career than the traditional corporate job that we all view as a safety net. 
+This is an iterative process, so in this video you will see how I go about debugging my code and making it work. 
 
-0:00 Intro
-0:31 The Myth 
-1:27 Consistency vs Reliability 
-2:04 Upside 
-3:05 How companies hook you
-3:52 Durable
-4:26 Flexibility 
-5:55 Companies are buying in?
-6:15 Can you have both?
+Stay tuned for part 3 where I go through and clean up the data that we collected to make it usable for our EDA and model building. 
 
+After we scrape the data, I save the code to github. 
 
-Sponsors, Affiliates, and Partners:
-- Pathrise - http://pathrise.com/KenJee | Career mentorship for job applicants (Free till you land a job)
-- Taro - http://jointaro.com/r/kenj308 (20% discount) | Career mentorship if you already have a job 
-- 365 Data Science (57% discount) - https://365datascience.pxf.io/P0jbBY | Learn data science today
-- Interview Query (10% discount) - https://www.interviewquery.com/?ref=kenjee |  Interview prep questions
+Project from scratch playlist: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
+My other project playlist: https://www.youtube.com/playlist?list=PL2zq7klxX5AReJn7nZfqOKLZ3IpKj7fwc
+
+#DataScience #KenJee #DataScienceProject
+
+⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
+🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
+🕸 Check out My Website - https://kennethjee.com/
+✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
+📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
+
+Partners & Affiliates 
+🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
+🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
 
 MORE DATA SCIENCE CONTENT HERE:
 🐤My Twitter - https://twitter.com/KenJee_DS
@@ -123,66 +91,32 @@ How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6n
 My Playlists 
 Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
 Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #datascience  #KenJee 
+Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO This is part 3 of the Data Science Project from Scratch Series. In this video I go through how to clean up your data to make it usable for exploratory data analysis (EDA) and model building. 
 
-In this video, I give you my best advice for weathering a bad data job market. Hopefully this helps you get through any tough times ahead! 
+github repo for this project: https://github.com/PlayingNumbers/ds_salary_proj
 
-0:00 Intro
-0:35 Reframe
-2:04 Collect Data
-3:53 Explore
-5:00 Upskill
-5:55 Build
-6:53 *Warning Controversial
-8:05 People
-8:43 Look in the Mirror
- 
+Data cleaning is an extremely important and often overlooked step in the data science lifecycle. Python has some handy functions that allow you to parse and replace data relatively easily. You can also use regular expressions to do this; however, those are a bit beyond the scope of this video. I mostly use lambda functions because I think that this is the simplest approach.
 
-Sponsors, Affiliates, and Partners:
-- Pathrise - http://pathrise.com/KenJee | Career mentorship for job applicants (Free till you land a job)
-- Taro - http://jointaro.com/r/kenj308 (20% discount) | Career mentorship if you already have a job 
-- 365 Data Science (57% discount) - https://365datascience.pxf.io/P0jbBY | Learn data science today
-- Interview Query (10% discount) - https://www.interviewquery.com/?ref=kenjee |  Interview prep questions
+The first thing that we clean is the data science salary. We need to make sure that it is numeric because we are using that as our dependent variable. We also want to go through and do some light feature engineering. We can get some info about the state of the job postings and the nature of the job postings themselves.
 
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
+I went through and looked to see if the postings had python, r-studio, spark, aws, or excel listed and added those as features. 
 
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
+Again, this is an iterative approach that is rather messy. Please stay tuned for part 4 of the series EDA! 
 
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee 
-From everything I'm hearing, the data job market is in a brutal spot. What does the data say?
+Project from scratch playlist: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
+My other project playlist: https://www.youtube.com/playlist?list=PL2zq7klxX5AReJn7nZfqOKLZ3IpKj7fwc
 
-0:00 Intro
-1:18 FAANG VS Non-FAANG
-2:00 Current Job Landscape
-2:39 Postings by Role
-3:00 Postings by Seniority
-3:45 Global Job Postings
-4:25 Full time Vs non-Full Time
-5:00 Who is hiring NOW?
-5:34 What does this all mean?
+#DataScience #KenJee #DataScienceProject
 
-Sponsors, Affiliates, and Partners:
-- Pathrise - http://pathrise.com/KenJee | Career mentorship for job applicants (Free till you land a job)
-- Taro - http://jointaro.com/r/kenj308 (20% discount) | Career mentorship if you already have a job 
-- 365 Data Science (57% discount) - https://365datascience.pxf.io/P0jbBY | Learn data science today
-- Interview Query (10% discount) - https://www.interviewquery.com/?ref=kenjee |  Interview prep questions
+⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
+🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
+🕸 Check out My Website - https://kennethjee.com/
+✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
+📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
 
-Interview Query Blog: https://www.interviewquery.com/p/job-market-update-march-2023
-Datanerd: https://datanerd.tech/
-Luke's Video: https://www.youtube.com/watch?v=7G_Kz5MOqps&ab_channel=LukeBarousse
-Reddit post: https://www.reddit.com/r/datascience/comments/14mc8kj/advice_for_unemployed_data_scientists/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=1&utm_term=1
+Partners & Affiliates 
+🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
+🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
 
 MORE DATA SCIENCE CONTENT HERE:
 🐤My Twitter - https://twitter.com/KenJee_DS
@@ -200,37 +134,39 @@ How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6n
 My Playlists 
 Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
 Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee 
+Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO This is part 4 of the Data Science Project from Scratch Series. In this video I perform an Exploratory Data Analysis (EDA) on the data that we collected from glassdoor in part 2 and cleaned in part 3. 
 
-The future is here, and AI is leading the charge. In this video, we delve deep into seven industries on the cusp of major AI-driven transformations. From education to gaming, see how AI advancements are redefining the landscape. 🤖🌍
+github repo for this project: https://github.com/PlayingNumbers/ds_salary_proj
 
-Sponsors, Affiliates, and Partners:
-- Pathrise - http://pathrise.com/KenJee | Career mentorship for job applicants (Free till you land a job)
-- Taro - http://jointaro.com/r/kenj308 (20% discount) | Career mentorship if you already have a job 
-- 365 Data Science (57% discount) - https://365datascience.pxf.io/P0jbBY | Learn data science today
-- Interview Query (10% discount) - https://www.interviewquery.com/?ref=kenjee |  Interview prep questions
+EDA is where we really start understanding our data. It where we start analyzing trends and begin to find insights. 
 
-0:00 Intro
-0:58 Disrupted 1 
-2:08 Disrupted 2
-3:20 Disrupted 3
-4:45 Disrupted 4
-5:37 Disrupted 5
-6:35 Disrupted 6
-7:46 Disrupted 7
-8:55 Disrupted Bonus 1
-9:40 Last one I promise! 
+First, I do some additional data cleaning. I clean up the job titles, and do some feature engineering. 
+
+Next, I look at histograms and box plots of the continuous data fields. This is an important step because we want normal data if we plan to do a regression analysis. 
+
+We then look at the categorical data. We want to see what companies, states, industries, and sectors these jobs are offered in. 
+
+After that, we make some pivot tables to better understand how average salary is different across our categorical categories. 
+
+Finally, we make a word cloud to visualize some of the most common words found in the descriptions. 
+
+Please stay tuned for part 5 where we start building models to predict salary! 
+
+Project from scratch playlist: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
+My other project playlist: https://www.youtube.com/playlist?list=PL2zq7klxX5AReJn7nZfqOKLZ3IpKj7fwc
 
 
-📊 Featured in this video:
+#DataScience #KenJee #DataScienceProject
 
-The exponential growth of AI research: https://twitter.com/MarioKrenn6240/status/1577102743927652354
-The soaring cost of US college tuition and AI's potential in revolutionizing education: https://educationdata.org/average-cost-of-college
-The rise of AI scams and the need for robust cybersecurity: https://gizmodo.com/gpt4-open-ai-chatbot-task-rabbit-chatgpt-1850227471 | https://blog.knowbe4.com/88-percent-of-data-breaches-are-caused-by-human-error
-The AI influence in content creation: https://www.youtube.com/watch?v=iK-MsOcj870&ab_channel=JREUniversity | https://lendedu.com/blog/average-cost-of-college-statistics/
-How AI is revolutionizing gaming: https://automaton-media.com/en/news/20230317-18177/ | https://venturebeat.com/games/more-game-developers-openly-use-generative-ai-despite-criticism/ | https://medium.com/building-the-metaverse/five-levels-of-generative-ai-for-games-18579ab43da7
-The challenges of AI and licensing: https://hbr.org/2023/04/generative-ai-has-an-intellectual-property-problem
+⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
+🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
+🕸 Check out My Website - https://kennethjee.com/
+✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
+📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
 
+Partners & Affiliates 
+🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
+🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
 
 MORE DATA SCIENCE CONTENT HERE:
 🐤My Twitter - https://twitter.com/KenJee_DS
@@ -248,91 +184,176 @@ How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6n
 My Playlists 
 Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
 Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #kenjee  
+Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO This is part 5 of the Data Science Project from Scratch series. In this video I try a few different models to try to predict the glassdoor salary data that we collected in part 2, cleaned in part 3, and explored in part 4 of this series. 
 
-I travel a LOT for work. These are the things that help me stay sane on my trips and help me with my data science work. Hope some of these can make your next trip more enjoyable! 
+github repo for this project: https://github.com/PlayingNumbers/ds_salary_proj
+
+When people think about data science, model building is what they usually think about. In this phase, we try multiple different data science algorithms to see which one performs the best. We tune each of these algorithms, and often try multiple at a time to see if we can produce a more accurate result. 
+
+Here, I try a multiple linear regression, a lasso regression, and a random forest regressor. 
+
+I chose to do a lasso regression because the data is fairly sparse, and we would expect a normalized model to perform better. I also selected a random forest because we had many dummy variables. With this type of data, we would also expect a tree based model to perform well. 
+
+Please stay tuned for part 6 where we productionize this model.
+
+Project from scratch playlist: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
+My other project playlist: https://www.youtube.com/playlist?list=PL2zq7klxX5AReJn7nZfqOKLZ3IpKj7fwc
+
+#DataScience #KenJee #DataScienceProject
+
+⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
+🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
+🕸 Check out My Website - https://kennethjee.com/
+✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
+📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
+
+Partners & Affiliates 
+🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
+🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
+
+MORE DATA SCIENCE CONTENT HERE:
+🐤My Twitter - https://twitter.com/KenJee_DS
+👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
+📈 Kaggle - https://www.kaggle.com/kenjee
+📑 Medium Articles - https://medium.com/@kenneth.b.jee
+💻 Github - https://github.com/PlayingNumbers
+🏀 My Sports Blog -https://www.playingnumbers.com
+
+Check These Videos Out Next! 
+My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
+66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
+How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
+
+My Playlists 
+Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
+Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
+Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO This is Part 6 of the Data Science Project from Scratch Series. In this video I put the salary prediction model that I made in part 5 into production using flask. We make an API endpoint that takes in job posting data and returns an expected salary. 
+
+Article By Chris that we Followed to Create the API: https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
+
+github repo for this project: https://github.com/PlayingNumbers/ds_salary_proj
+
+For data science projects, model production is not required, but it can separate you from the pack. It shows that you understand how other people could use your model, and you have made it into a product for them. 
+
+I recommend turning a model into an API endpoint or a small web page at least once for your portfolio. 
+
+Stay tuned for part 7 of this series where I make a github readme for this project. 
+
+Project from scratch playlist: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
+My other project playlist: https://www.youtube.com/playlist?list=PL2zq7klxX5AReJn7nZfqOKLZ3IpKj7fwc
+
+#DataScience #KenJee #DataScienceProject
+
+⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
+🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
+🕸 Check out My Website - https://kennethjee.com/
+✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
+📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
+
+Partners & Affiliates 
+🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
+🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
+
+MORE DATA SCIENCE CONTENT HERE:
+🐤My Twitter - https://twitter.com/KenJee_DS
+👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
+📈 Kaggle - https://www.kaggle.com/kenjee
+📑 Medium Articles - https://medium.com/@kenneth.b.jee
+💻 Github - https://github.com/PlayingNumbers
+🏀 My Sports Blog -https://www.playingnumbers.com
+
+Check These Videos Out Next! 
+My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
+66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
+How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
+
+My Playlists 
+Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
+Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
+Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO This is Part 7 of the Data Science Project from Scratch Series. In this video I show you how I documented the code in the github readme.md file for Part 1 - 6. 
+
+github repo for this project: https://github.com/PlayingNumbers/ds_salary_proj
+Markdown cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+I talk about the importance of an overview for employers and citing the resources you referenced. 
+
+I want to thank everyone for watching this project and for all the great feedback. Hopefully it will be useful to you as you continue your data science journey. 
+
+Project from scratch playlist: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
+My other project playlist: https://www.youtube.com/playlist?list=PL2zq7klxX5AReJn7nZfqOKLZ3IpKj7fwc
+
+#DataScience #KenJee #DataScienceProject
+
+⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
+🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
+🕸 Check out My Website - https://kennethjee.com/
+✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
+📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
+
+Partners & Affiliates 
+🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
+🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
+
+MORE DATA SCIENCE CONTENT HERE:
+🐤My Twitter - https://twitter.com/KenJee_DS
+👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
+📈 Kaggle - https://www.kaggle.com/kenjee
+📑 Medium Articles - https://medium.com/@kenneth.b.jee
+💻 Github - https://github.com/PlayingNumbers
+🏀 My Sports Blog -https://www.playingnumbers.com
+
+Check These Videos Out Next! 
+My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
+66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
+How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
+
+My Playlists 
+Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
+Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
+Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO In this video I build a burrito dashboard from scratch using atoti. Check out atoti yourself here: https://docs.atoti.io/latest/installation.html
+
+Check out the notebook and its dashboard from the atoti notebook gallery: https://github.com/atoti/notebooks/tree/master/notebooks/burritos 
+
+Backup Notebook: https://github.com/PlayingNumbers/burrito_dashbaord
 
 0:00 Intro 
-0:15 Travel Bag 
-1:40 Laptop
-2:42 Headphones
-3:24 Laptop Stand
-3:54 Keyboard
-4:17 Trackball Mouse
-4:34 Notebooks
-5:50 Books 
-6:50 Misc 
+0:59 Dashboard Demo
+3:05 Downloading the Data
+3:53 Creating a new Env
+6:43 Creating a Notebook
+7:40 install libs & explore data
+10:45 Clean data
+15:55 Exploring atoti example
+17:31 Reading data into atoti
+28:10 Create pivot table
+32:02 Create Scatter Plot
+34:43 Create Radar Chart
+41:09 Putting together the dashboard
+42:35 Adding a Gauge
+46:50 Adding a Filter
+47:55 Conclusion
 
-Things Mentioned in the Video*:
-Backpack (Discontinued) - https://amzn.to/3rSEfc6
-Laptop -  https://www.hp.com/us-en/shop/pdp/hp-zbook-studio-g9-mobile-workstation-customizable-4z8r6av-mb?&a=1&jumpid=cs_con_nc_ns&utm_medium=cs&utm_source=ga&utm_campaign=HP-Store_US_All_BPS_Hgm_Intel_Google_All_Smart-PLA_Workstation&utm_content=sp&adid=598698520295&addisttype=u&4Z8R6AV_MB&cq_src=google_ads&cq_cmp=17288384530&cq_con=136832798077&cq_term=&cq_med=&cq_plac=&cq_net=u&cq_pos=&cq_plt=gp&gclid=CjwKCAjw_aemBhBLEiwAT98FMgHxCYUnuXEpYOYP5KQWNBUscJiN3jtEYp_r36jT49pJayJtWGOYIRoCOxYQAvD_BwE&gclsrc=aw.ds
-Headphones - https://amzn.to/47e9iiK
-Laptop Stand - https://amzn.to/3ODzqwe
-Keyboard - https://amzn.to/47dVLrt
-Mouse - https://amzn.to/3Ol8O1D
-Notebook - https://www.leuchtturm1917.us/notebooks/
-Book 1 - https://amzn.to/3QpnrUi
-Book 2 - https://amzn.to/3QojKyg
-Nice sleep mask I keep loosing - https://amzn.to/458Q8sM
-Neck Pillow - https://amzn.to/3DEdM4v
-Exercise bands - https://amzn.to/3DMfG33
-Dongle - https://amzn.to/458Qn7a
-Grip strengthener Set - https://amzn.to/3Qjc1kZ
+Tutorial page referenced: https://docs.atoti.io/latest/tutorial/tutorial.html
 
+This is a part of my data science project from scratch continuing series! 
 
-*I use affiliate links on the amazon products in this list. These are at no cost to you! 
-Sponsors, Affiliates, and Partners:
-- Pathrise - http://pathrise.com/KenJee | Career mentorship for job applicants (Free till you land a job)
-- Taro - http://jointaro.com/r/kenj308 (20% discount) | Career mentorship if you already have a job 
-- 365 Data Science (57% discount) - https://365datascience.pxf.io/P0jbBY | Learn data science today
-- Interview Query (10% discount) - https://www.interviewquery.com/?ref=kenjee |  Interview prep questions
+Join the atoti community 👇
+https://www.youtube.com/c/atoti 
+https://www.linkedin.com/company/atoti
+https://twitter.com/atoti_io
+https://gitter.im/atoti/atoti
 
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
+#DataScience #KenJee #project
 
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
+⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
+🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
+🕸 Check out My Website - https://kennethjee.com/
+✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
+📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
 
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee #AI
-In this video I walk you through 7 enticing jobs I think AI will create in the next few years. 
-
-Check out Einblick's new prompt AI: https://www.einblick.ai/?utm_source=yt&utm_medium=kenjee&utm_campaign=prompt
-0:00 Intro
-0:42 Job 1 (Security)
-1:27 Job 2 (Data)
-2:30 Job 3 (Legal)
-3:20 Job 4 (Legislation)
-4:02 Job 5 (Leadership)
-5:21 AI + Notebook Innovation
-6:41 Job 6 (Engineering)
-7:26 Job 7 (UX)
-
-Some articles referenced for this story:
-https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/ 
-https://hai.stanford.edu/news/2023-state-ai-14-charts
-https://thenextweb.com/news/new-jobs-generative-ai-future
-https://www.salesforce.com/news/stories/generative-ai-research/#:~:text=The%20majority%20of%20senior%20IT,data%2C%20and%20operate%20more%20efficiently. 
-https://nerdynav.com/chatgpt-statistics/#:~:text=ChatGPT%20User%20Stats,-Platform&text=ChatGPT%20has%20become%20the%20fastest,in%202%20months%20of%20launch.&text=According%20to%20Similarweb%2C%20the%20ChatGPT,gets%2025%20million%20daily%20visits.
-https://www.spiceworks.com/tech/artificial-intelligence/articles/industries-ai-will-disrupt/
-https://spectrum.ieee.org/state-of-ai-2023 
-https://uxdesign.cc/why-is-the-user-experience-of-chatgpt-so-powerful-509e803e0122
-
-
-Sponsors, Affiliates, and Partners:
-- Pathrise - http://pathrise.com/KenJee | Career mentorship for job applicants (Free till you land a job)
-- Taro - http://jointaro.com/r/kenj308 (20% discount) | Career mentorship if you already have a job 
-- 365 Data Science (57% discount) - https://365datascience.pxf.io/P0jbBY | Learn data science today
-- Interview Query (10% discount) - https://www.interviewquery.com/?ref=kenjee |  Interview prep questions
+Partners & Affiliates 
+🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
+🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
 
 MORE DATA SCIENCE CONTENT HERE:
 🐤My Twitter - https://twitter.com/KenJee_DS
@@ -350,57 +371,21 @@ How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6n
 My Playlists 
 Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
 Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee #ai 
+Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO Announcing my first ever community project! You can download the dataset here: https://www.kaggle.com/kenjee/ken-jee-youtube-data
 
-In this video, I talk about why I believe that the chatgpt code interpreter is overrated. While I think ChatGPT and LLMs are incredible technologies, I don't think the code interpreter is as big a leap as people are hyping it up to be. 
+In this video I talk about my first ever community project. I have released all of my youtube data to the public to be analyzed by you! If you're looking for a data science project where you can have a real impact, this is the right spot! 
 
-00:00 Giving it some credit
-00:50 Limitations of Code Interpreter
-01:03 Data? 
-01:26 Your Racecar 
-02:22 New libraries?
-02:50 Turbo
-03:45 Getting around Issues
-04:45 What to do
+#DataScience #KenJee 
 
-Sponsors, Affiliates, and Partners:
-- 365 Data Science (57% discount) - https://365datascience.pxf.io/P0jbBY | Learn data science today
-- Interview Query (10% discount) - https://www.interviewquery.com/?ref=kenjee |  Interview prep questions
-- Pathrise - http://pathrise.com/KenJee | Career mentorship for job applicants (Free till you land a job)
-- Taro - http://jointaro.com/r/kenj308 (20% discount) | Career mentorship if you already have a job 
+⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
+🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
+🕸 Check out My Website - https://kennethjee.com/
+✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
+📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
 
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-How I Would Learn Data Science with AI: https://www.youtube.com/watch?v=xpi-M2j3NmE&ab_channel=KenJee
-Kaggle Project with AI: https://www.youtube.com/watch?v=NQQ3DRdXAXE&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee 
-Big news! I know I haven't been as consistent with my YouTube content this past year. That is because I've been in the lab with my friend Jeff Li working to produce the most comprehensive data learning material I've ever made. 
-
-We partnered with 365 Data Science to produce 3 courses. The first on the ml process, the second on ML Algorithms, and the third on real world ML applications and from scratch code examples. 
-
-While these are paid courses, the most important part, the coding examples are all free on github and kaggle. 
-
-Course Bundle: https://bit.ly/3NAZ5oP
-ML Process Github (FREE): https://github.com/PlayingNumbers/ML_Process_Course
-ML Algorithms Github (FREE): https://github.com/PlayingNumbers/ML_Algorithms_Course
-365 Data Science Annual Membership (57% discount): https://365datascience.pxf.io/P0jbBY
-
-Sponsors, Affiliates, and Partners:
-- Pathrise - http://pathrise.com/KenJee | Career mentorship for job applicants (Free till you land a job)
-- Taro - http://jointaro.com/r/kenj308 (20% discount) | Career mentorship if you already have a job 
-- Interview Query (10% discount) - https://www.interviewquery.com/?ref=kenjee |  Interview prep questions
+Partners & Affiliates 
+🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
+🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
 
 MORE DATA SCIENCE CONTENT HERE:
 🐤My Twitter - https://twitter.com/KenJee_DS
@@ -418,19 +403,51 @@ How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6n
 My Playlists 
 Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
 Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee #ai 
+Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO Check out the #30DaysOfStreamlit here! https://share.streamlit.io/streamlit/30days. Again, this is a great learning objective that can be done alongside the #66DaysOfData! 
 
-This past week I had the opportunity to attend #ZendeskRelate with my friends @TinaHuang1 and @Miki_ML! The conference was all about how AI is changing the customer service space. @zendesk announced a partnership wit OpenAI, and they are rolling out a suite of LLM products that directly impact how customers interact with companies. Find out what I learned about AI's takeover of this space. Have you already seen this happening in your interactions with companies? 
+In this video I walk you through a basic data science portfolio project using python and streamlit. This is more of an exploratory data analysis project than a modeling project. I have set the groundwork, but have described many ways to improve upon this analysis for you to make this project your own! 
 
-If you're interested in learning more, check out these free links from the conference:
-Watch expert-led sessions, product demos, and key highlights from @Zendesk Relate 2023 on-demand here: https://zdsk.co/relate23ondemand
-Learn more about Zendesk AI and how it's changing the customer experience game: https://zdsk.co/zendeskAI
+Data for the Project: https://www.kaggle.com/datasets/kenjee/ken-jee-youtube-data
+Github for the Project: https://github.com/PlayingNumbers/YT_Dashboard_st
+Anaconda Setup Video: https://www.youtube.com/watch?v=C4OPn58BLaU
+What is #66DaysOfData? - https://www.youtube.com/watch?v=qV_AlRwhI3I
 
-Sponsors, Affiliates, and Partners:
-- Pathrise - http://pathrise.com/KenJee | Career mentorship for job applicants (Free till you land a job)
-- Taro - http://jointaro.com/r/kenj308 (20% discount) | Career mentorship if you already have a job 
-- 365 Data Science (57% discount) - https://365datascience.pxf.io/P0jbBY | Learn data science today
-- Interview Query (10% discount) - https://www.interviewquery.com/?ref=kenjee |  Interview prep questions
+0:00 Intro 
+1:36 What value can you drive from the data?
+2:29 The dashboard we are building
+4:38 Creating a new conda environment
+8:36 Getting the data 
+10:10 Setting up the analysis 
+11:25 Loading in the data 
+13:17 Basic feature engineering 
+28:50 Adding the sidebar
+31:06 Adding Metrics
+35:44 Adding in columns and advanced merics
+38:40 Adding in formatted dataframe
+41:16 Styling the dataframe
+48:41 Individual video analysis
+50:00 Adding a dropdown
+53:11 Create graph for subscriber status and country
+58:15 Building performance over time chart
+1:09:22 How could this be improved?
+1:11:25 Publishing the Streamlit app
+
+Streamlit Documenation - https://docs.streamlit.io/
+Pandas Table Visualization - https://pandas.pydata.org/docs/user_guide/style.html
+Plotly Documentation - https://plotly.com/python-api-reference/index.html
+
+
+#DataScience #KenJee 
+
+⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
+🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
+🕸 Check out My Website - https://kennethjee.com/
+✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
+📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
+
+Partners & Affiliates 
+🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
+🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
 
 MORE DATA SCIENCE CONTENT HERE:
 🐤My Twitter - https://twitter.com/KenJee_DS
@@ -475,1235 +492,6 @@ Column Transformer: https://scikit-learn.org/stable/modules/generated/sklearn.co
 Column Transformer: https://machinelearningmastery.com/columntransformer-for-numerical-and-categorical-data/
 PCA: https://www.youtube.com/watch?v=_UVHneBUBW0&ab_channel=StatQuestwithJoshStarmer
 Titanic Walkthrough (Easier): https://www.youtube.com/watch?v=I3FBJdiExcg&ab_channel=KenJee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee #ai 
-In this video, I explore the changing landscape of data science in the age of AI, and how tools like ChatGPT and GPT4 are transforming the way we learn technical skills. I discuss the relevance of data science in the AI-driven future and provide a step-by-step guide on how to learn data science effectively by leveraging AI tools. Join me as I share my thoughts on the future of data science and the importance of creating real-world impact with your projects.
-
-Sponsors, Affiliates, and Partners:
-- Pathrise - http://pathrise.com/KenJee | Career mentorship for job applicants (Free till you land a job)
-- Taro - http://jointaro.com/r/kenj308 (20% discount) | Career mentorship if you already have a job 
-- 365 Data Science (57% discount) - https://365datascience.pxf.io/P0jbBY | Learn data science today
-- My Course - https://365datascience.com/learn-machine-learning-process-a-z/ 
-- Interview Query (10% discount) - https://www.interviewquery.com/?ref=kenjee |  Interview prep questions
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee #AI 
-In this video, we explore the groundbreaking impact of AI systems like ChatGPT and GPT-4 on our daily lives and how they're transforming the way we work. As technology evolves at breakneck speed, we face a choice: adapt or risk falling behind. I share my thoughts on how embracing AI can improve efficiency and create new opportunities, and discuss the potential challenges that come with such rapid technological advancement.
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee 
-I'll never code the same again. After GPT-4 came out, the way I work has fundamentally changed. With this change comes good and bad. The good news is that I'm saving 4-5 hours a week with chat GPT. The bad news is that I may forget how to code all together. 
-
-0:00 Intro 
-1:12 The Cold Start Problem
-2:53 Conversational Coding
-4:59 Chat GPT like a Function
-6:26 GPT-4 vs Previous Versions
-
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee 
-Your portfolio should differentiate you from others not make you look the same. Try something new. 
-Full episode: https://www.youtube.com/watch?v=z0_xrtFdFj8&ab_channel=KenJee
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee 
-Try this next time instead of networking. 
-Full Video: https://www.youtube.com/watch?v=z0_xrtFdFj8&ab_channel=KenJee
-
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee 
-Full video: https://www.youtube.com/watch?v=z0_xrtFdFj8&ab_channel=KenJee
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee 
-Full Video: https://www.youtube.com/watch?v=z0_xrtFdFj8&ab_channel=KenJee
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee 
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee 
-Full video: https://www.youtube.com/watch?v=Z2MyLQa_vVw&ab_channel=KenJee
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee 
-Full Video: https://www.youtube.com/watch?v=nrEJGGxcoTc&ab_channel=KenJee
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee 
-Full Episode: https://www.youtube.com/watch?v=SVtRsDhHlDk&ab_channel=KenJee
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee 
-Is ChatGPT useful for data scientists? In this video, I talk about the 7 ways I use this amazing new AI tool to improve the quality of my work and save me time.
-
-0:00 Intro
-1:00 Visualizations 
-1:52 Converting Python
-2:35 Code Summarization 
-3:19 Optimizing Code
-4:18 Readme.md
-4:40 Regex
-5:02 Refactoring Code
-5:20 Commenting Code
-5:57 Will ChatGPT replace data scientists? 
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee 
-Watch Full Video: https://www.youtube.com/watch?v=SVtRsDhHlDk&ab_channel=KenJee
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee 
-Watch the full video here: https://www.youtube.com/watch?v=EMq4PH7PCeA&ab_channel=KenJee
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee 
-Full Video: https://www.youtube.com/watch?v=EMq4PH7PCeA&ab_channel=KenJee
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee 
-Full Video: https://www.youtube.com/watch?v=EMq4PH7PCeA&ab_channel=KenJee
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee 
-Full Video: https://www.youtube.com/watch?v=hcHSSyHbgMQ
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee 
-
-Full Video: https://www.youtube.com/watch?v=sHRq-LshG3U&t=0s&ab_channel=KenJee
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee 
-
-Doing your first project may be the single most important milestone in your data science career. Starting is often difficult, but it doesn't have to be. In this video I walk you through 5 insights that will help you crush your first data science project. 
-
-0:00 Intro
-0:33 Why do a project?
-1:07 Should it be creative?
-1:40 Copy?
-2:20 It's going to be hard
-3:04 Getting Tools Working
-3:45 Bonus Tip!!!
-
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee 
-Full Video: https://www.youtube.com/watch?v=sHRq-LshG3U&ab_channel=KenJee
-
-It can be difficult to land a data role. This one tip can help! 
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee 
-
-Full Video: https://www.youtube.com/watch?v=sHRq-LshG3U&ab_channel=KenJee
-
-It is hard to become a data scientist, yet it is still possible! There is a lot to learn and it takes a specific mindset to accumulate the skills. 
-
-*Disclaimer: I have created multiple courses with 365 data science. I believe in their product, but also believe other platforms are very suitable for learning the domain. This is not a paid video though. Below is my personal discount code for 365 ds. 
-
-I have no affiliation with kaggle as it is a free platform. I highly recommend that for free learning as well as @freecodecamp! 
-
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee 
-Watch the Full Video Here: https://www.youtube.com/watch?v=OybXWl3IWvI&ab_channel=KenJee
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee 
-Watch the full video here: https://www.youtube.com/watch?v=OybXWl3IWvI&ab_channel=KenJee
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee 
-Full Video: https://www.youtube.com/watch?v=OybXWl3IWvI&ab_channel=KenJee
-
-My thoughts on if data science will be automated anytime soon
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee 
-
-Full Video: https://www.youtube.com/watch?v=OybXWl3IWvI&ab_channel=KenJee
-
-Is data science a good career? 
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #datascience  #KenJee 
-
-These 5 books changed the course of my career. I wish I had read them earlier! I'm telling you about them now so you can get ahead. 
-
-0:00 Intro
-0:25 Book 1
-0:49 Book 2
-1:17 Book 3
-1:34 Book 4
-1:55 Book 5
-2:31 Bonus Books! 
-
-Thanks to @TinaHuang1 & @EcZachly_ for the broll and thumbnail help! 
-
-Never Split the Difference: https://amzn.to/3XmiQ5X
-So Good They Can't Ignore You: https://amzn.to/3XvSJcH
-Crucial Conversations: https://amzn.to/405tiRc
-4Dx: https://amzn.to/3H1xHfe
-The One Thing: https://amzn.to/3ZNLsGZ
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee 
-Watch full video here: https://www.youtube.com/watch?v=xpIFS6jZbe8&t=2s&ab_channel=KenJee
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee 
-Watch full video here: https://www.youtube.com/watch?v=xpIFS6jZbe8&t=2s&ab_channel=KenJee
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee 
-Full video: https://www.youtube.com/watch?v=xpIFS6jZbe8&ab_channel=KenJee
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee 
-Full video: https://www.youtube.com/watch?v=xpIFS6jZbe8&ab_channel=KenJee
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee 
-In this video I talk about how I would not learn data science in 2023. I take a look at the 7 traps that data science learners fall into and how to avoid them. I hope this helps you make 2023 your year for achieving your data science aspirations! 
-
-🌟 My New ML Process Course: https://365datascience.com/learn-machine-learning-process-a-z/
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Github with Free Resources for ML Process: https://github.com/PlayingNumbers/ML_Process_Course
-
-0:00 Intro
-0:59 Mistake 1
-2:24: Mistake 2
-3:45 Mistake 3
-5:12 Mistake 4
-6:23 Mistake 5
-7:16 Mistake 6
-8:13 Mistake 7
-
-Goal Setting Links: 
-- https://www.imcomacademy.com/ima/?page_id=4153
-- https://www.youtube.com/watch?v=KAVw910mIrI
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-The Only Data Science Explanation You Need: https://www.youtube.com/watch?v=rEWPqw6rMGI&ab_channel=KenJee
-Essential Programming Concepts for Data Science: https://www.youtube.com/watch?v=3NJOWWvNK3I&ab_channel=KenJee
-Is Data Science a Good Career? https://www.youtube.com/watch?v=OybXWl3IWvI&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee #KaggleDays
-
-I recently got a chance to attend the kaggle days world championship in beautiful Barcelona Spain! This is everything that you missed! 
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - My Course: https://365datascience.com/learn-machine-learning-process-a-z/
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO Programming / Coding is one of the most important skills for a data scientist. Having a great foundation can increase your value over the course of your career. In this video I talk about the 5 essential programming concepts that will give you the biggest boost for a data career. 
-
-Check out YouCode here!  https://you.com/kenjee
-
-0:00 Intro
-1:10 Control Flow Structures
-3:47 Data Structures
-5:56 Data Types 
-7:45 Functions & Methods
-9:40 Libraries 
-11:49: Debugging
-12:20 Object Oriented Programming
-12:52 Learning Framework
-
-Tuples Vs Arrays Vs Lists: https://www.geeksforgeeks.org/python-list-vs-array-vs-tuple/
-Python Sets: https://www.w3schools.com/python/python_sets.asp
-
-Documentation for libraries 
-- Pandas Docs: https://pandas.pydata.org/docs/
-- Numpy Docs: https://numpy.org/doc/
-- Scikit Learn Docs: https://scikit-learn.org/0.21/documentation.html
-- Matplotlib Docs: https://matplotlib.org/stable/index.html
-- Seaborn Docs: https://seaborn.pydata.org/
-- Plotly Docs: https://plotly.com/python/
-- Tensorflow Docs: https://www.tensorflow.org/api_docs
-- Pytorch Docs: https://pytorch.org/docs/stable/index.html
-- Keras Docs: https://keras.io/
-
-Other Resources/ projects:
-- Project Example Using Many of These Tools: https://www.youtube.com/watch?v=I3FBJdiExcg&ab_channel=KenJee
-
-#datascience  #KenJee #coding 
-
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO What happens when you put 19 data nerds in a house together? You get a lot of interesting content (Hopefully). Learn about what happened behind the scenes at the #brightdata house a few months ago!
-
-Watch the Iron Analyst Here: https://brightdata.com/iron-analyst
-
-#datascience  #KenJee #brightdatahouse
-
-Creators that attended:
-@ShashankData 
-@averysmith 
-@EcZachly_ 
-@Miki_ML 
-@KeithGalli 
-@TinaHuang1 
-@AlexTheAnalyst 
-@LukeBarousse 
-@statquest 
-@fknight 
-@SeattleDataGuy 
-Joe Reis
-Matt Housley 
-Mark Freeman
-Hunter Kempf
-Ben Taylor
-Ian Greengross
-Me (Ken Jee)
-Lulu (Dog)
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #kenjee  
-Get your 57% discount on the awesome redesigned 365 Data Science platform here: https://365datascience.pxf.io/P0jbBY
-
-Today I answer the question: Is data science a good career? I base this off of 5 criteria that I find relevant.
-
-1) Growth of the career - Will there be jobs in the future?
-2) The nature of data science work - Will you like the job?
-3) Benefits and pay - Will you be compensated fairly?
-4) Exit opportunities - What will the career lead to if you want to move on?
-5) Secret Sauce (watch to find out)
-
-0:00 Intro
-0:55 Data Science Career Growth
-2:39 Nature of the Work
-6:11 Benefits & Pay
-8:10 Exit Opportunities 
-9:10 Secret Sauce
-
-Research Referenced:
-- https://www.institutedata.com/blog/data-science-job-opportunities-in-2022/
-- https://insights.stackoverflow.com/survey/2021#salary-comp-total-usa 
-- ML Engineering - https://www.youtube.com/watch?v=vwvdtXMcNzI&t=6s&ab_channel=KenJee
-- Is Data Science Dying - https://www.youtube.com/watch?v=2qVWurPFwfc
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO Watch the whole episode here: https://brightdata.com/iron-analyst
-
-Who will become the first ever #IronAnalyst? @ShashankData, @LukeBarousse, @EcZachly_, @KeithGalli, @averysmith,  Mark Freeman, or Hunter Kempf?
-
-#shorts #brightdata #datascience
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
-
-MORE DATA SCIENCE CONTENT HERE:
-🐤My Twitter - https://twitter.com/KenJee_DS
-👔 LinkedIn -  https://www.linkedin.com/in/kenjee/
-📈 Kaggle - https://www.kaggle.com/kenjee
-📑 Medium Articles - https://medium.com/@kenneth.b.jee
-💻 Github - https://github.com/PlayingNumbers
-🏀 My Sports Blog -https://www.playingnumbers.com
-
-Check These Videos Out Next! 
-My Leaderboard Project: https://www.youtube.com/watch?v=myhoWUrSP7o&ab_channel=KenJee
-66 Days of Data: https://www.youtube.com/watch?v=qV_AlRwhI3I&ab_channel=KenJee
-How I Would Learn Data Science in 2021: https://www.youtube.com/watch?v=41Clrh6nv1s&ab_channel=KenJee
-
-My Playlists 
-Data Science Beginners: https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs
-Project From Scratch: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&ab_channel=KenJee
-Kaggle Projects: https://www.youtube.com/playlist?list=PL2zq7klxX5AQXzNSLtc_LEKFPh2mAvHIO #DataScience #KenJee #brightdata #brightdatahouse
-How will the data analysts feel about a new data scientist on the team? 
-
-Featuring 
-@AlexTheAnalyst 
-@LukeBarousse 
-@fknight 
-@statquest 
-
-⭕ Subscribe: https://www.youtube.com/c/kenjee1?sub_confirmation=1
-🎙 Listen to My Podcast: https://www.youtube.com/c/KensNearestNeighborsPodcast
-🕸 Check out My Website - https://kennethjee.com/
-✍️Sign up for My Newsletter - https://www.kennethjee.com/newsletter
-📚 Books and Products I use -  https://www.amazon.com/shop/kenjee (affiliate link)
-
-Partners & Affiliates 
-🌟 365 Data Science - Courses ( 57% Annual Discount): https://365datascience.pxf.io/P0jbBY
-🌟 Interview Query - https://www.interviewquery.com/?ref=kenjee
 
 MORE DATA SCIENCE CONTENT HERE:
 🐤My Twitter - https://twitter.com/KenJee_DS
