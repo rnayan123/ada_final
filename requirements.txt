@@ -1,11 +1,5 @@
-pip install google-api-python-client
-pip install pandas
-pip installmatplotlib
-pip install nltk
-pip install scikit-learn
-pip install textblob
-pip install pattern
-pip install afinn
-pip install vadersentiment
-pip install wordcloud
-pip install streamlit
+streamlit
+google-api-python-client
+matplotlib
+vaderSentiment
+pandas
