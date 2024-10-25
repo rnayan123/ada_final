@@ -5,6 +5,11 @@
         "sentiment": "positive"
     },
     {
+        "comment": "Can I put this project in my resume for internship ??",
+        "score": 0.0,
+        "sentiment": "neutral"
+    },
+    {
         "comment": "thank you thank you thank you! a thousand times thank you!!!!!!",
         "score": 8.0,
         "sentiment": "positive"
@@ -486,6 +491,16 @@
     },
     {
         "comment": "Using autoencoders to mimmic human behavior.",
+        "score": 0.0,
+        "sentiment": "neutral"
+    },
+    {
+        "comment": "Data Science Part 2",
+        "score": 0.0,
+        "sentiment": "neutral"
+    },
+    {
+        "comment": "Go to kaggle and see the project.",
         "score": 0.0,
         "sentiment": "neutral"
     },
@@ -3983,20 +3998,5 @@
         "comment": "I loved the video.",
         "score": 3.0,
         "sentiment": "positive"
-    },
-    {
-        "comment": "Happy that I have found your announcement on reddit, looking forward for the next episode.",
-        "score": 3.0,
-        "sentiment": "positive"
-    },
-    {
-        "comment": "Amazing series, very well structured! Can't wait to see more!",
-        "score": 4.0,
-        "sentiment": "positive"
-    },
-    {
-        "comment": "Do you prefer to learn data science in R or python? Very informative video, can’t wait for part 3!",
-        "score": 0.0,
-        "sentiment": "neutral"
     }
 ]

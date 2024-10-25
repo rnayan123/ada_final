@@ -1,4 +1,5 @@
 I am happy to hold you guys accountable on your projects! Leave some of your ideas in the section below to make sure that you will do them. Also, make sure to subscribe and turn on notifications to be alerted when part 2 comes out on Monday!
+Can I put this project in my resume for internship ??
 thank you thank you thank you! a thousand times thank you!!!!!!
 Hi , can you please let me know where can I get a live dataset for market mixing model project
 https://codeverse001.blogspot.com/2023/08/data-science-in-sports-analytics.html
@@ -96,6 +97,8 @@ Thank you for this addition! I think I want to start with linear regression on p
 Men! I was waiting for this. Thank you very much!
 Instagram Human mimic AI bot.
 Using autoencoders to mimmic human behavior.
+Data Science Part 2
+Go to kaggle and see the project.
 Awesome content! Still relevant in 2024!
 Can't we scrape the data just by using beautifulsoup.. is selenium knowledge is required?
 Im getting this error Im struck ..Please help me with this error SeleniumManagerException: Message: Selenium Manager failed for: /Users/mahalakshmirajabattula/Library/Python/3.9/lib/python/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --output json.
@@ -694,6 +697,7 @@ Great video, thanks again. I'm curious, you found pre-existing code and made edi
 Dope screen
 Finally  :D
 Part 4 on exploratory data analysis is coming out this Friday! If you haven't seen part 1&2 they are neatly packaged in this playlist: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t. Would love any feedback on this video and series in the comments section below!
+You explained good but while u cleaning data for Excel you have used same AWS variable instead of Excel
 thank you so much MR KEN 😍
 ❤
 This guy is making journey of struggle fun which is hardest thing to do
@@ -1064,7 +1068,6 @@ Hi Ken, thanks for this awesome series. I'm literally stuck at the end of this t
 Hi Ken, just an idea to better extract seniority information, if we could take how many years experience required from the job description, that would be a good indicator. For now a lot of jobs `seniority` is `na`. Just my 2 cents opinion.
 
 Also, do you still accept resume revision request? I've watched your serious of videos on resume and modified mine accordingly, it'd be great if you can take a quick look at it and provide any feedback, thank you so much!
-Hi, Ken, what's the practical way to prevent multicollinearity. hv we done anything to prevent it in this project? Because I didn't see  any prevention after you creating the corr heatmap. :)
 RuntimeWarning: Glyph 13 missing from current font.  Hey Ken getting this error 33:10 help please!
 Hey, ken hourly wage to annual what actually it's 17:00 trying to calculate can you please explain?
 This playlist is very good.
@@ -1225,7 +1228,6 @@ Bro can u make more series like this? This inspires a lot
 I’m working with a dataset containing around 100,000 rows and my grid search has been running for around 3 hours now (using the same parameters as you). Is this normal? Could Jupyter notebooks potentially be the problem?
 Hi Ken, thank you for the fantastic video! I am having an issue with my linear regression, I was getting an error that my X_sm was an object so i converted it to a float, but my R-squared value is 1.0 which just doesn't seem to be correct. Any ideas? Thanks again!
 Hey Ken!! Fantastic series.When you instantiated GridSearchCV as gs..and passed rf,parameters and scoring in it..it also requires verbose parameter..mine is not executing without verbose..(ps: am using jupyter notebook)
-Really appreciate your work, Ken
 #This Lasso instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator. how to fix this error can't find anything in StackOverflow!
 Hey Ken how would I use a combination of 2 models?
 Hi Ken, at 12:00, when checking the multiple linear regression summary, for variables that has either very small coef (slope is close to zero) or p values smaller than 0.05 (statistically not significant), can we `safely` remove them from the regression model?
@@ -1348,7 +1350,6 @@ what's the alternative command for touch in windows?
 update: I did 'echo .>' command
 Congratulations Ken for this amazing videos series ! My huge Thank you for passing all the content in details and providing insights along a project. I'm a big fan of you and you help me out a lot during my journey in the Data Science field!
 ken can you share some details regarding the project based on nlp and cv. man you videos are the best
-The content is super cool, just like its author, Ken! :)
 This video is a bit hard for me to follow, so I tried some alternative and found someone else already mentioned in the comment, that is to use `Streamlit`, I personally find it easier to use to build the model into a web app compared to flask.
 Hey, ken 'touch' is not recognized as an internal or external command, operable program or batch file'  how to solve this error? please help!
 I am currently working on a data science project and was thinking of wrapping it up in a simple Django site. (more work than Flask but I think worth the effort) Do you usually make APIs out of projects? Does it sometimes come full circle as a full web app? I'm trying to stand out as an applicant.
@@ -1562,6 +1563,7 @@ Great!
 I was also in search of any beginner ml project from Kaggle cuz I just completed learning supervised learning so wanting try some of the projects
 This is so cool Ken ! Thank you for the efforts 🌻 I will definitely participate
 Check out the #30DaysOfStreamlit here! https://share.streamlit.io/streamlit/30days. Again, this is a great learning objective that can be done alongside the #66DaysOfData!
+Great work, Ken. Kindly share your source code.
 I do find the data in your kaggle. I do not find the script from the vid. Any help? Thanks. Thanks for the vid also. Very insightful.
 I have trouble to run streamlit , then decide to do it on flask. Please advise
 Instant sub, Great vid!
@@ -1625,6 +1627,14 @@ Cool Stuff! Definitely gonna try streamlit to build a dashboard of some sort.
 It's amazing how easy it is these days to build visually appealing dashboards.
 Kaggle Notebook (Housing): https://www.kaggle.com/code/kenjee/housing-prices-example-with-video-walkthrough 
 Check out the video description for additional resources!
+What was the use of Data Exploration? I feel it played no part whatsoever in the final results of the project.
+I've been trying to become a data analyst for 2 years, no luck. But data scientists roles are looking more attractive now though, they seem more programming focused and pay a lot more.
+
+As far as I can see from the table of contents, the model part is when it turns into data scientist role? I think a Data Analyst would stop st the EDA and then create visuals. Still tryung to figure out the difference between the two! 
+
+Btw are junior data sci roles easier to land that junior data analyst? All the data roles ive seen at entry level want 3 years experience..
+
+Im any case im gonna follow along here as I have experience with pandas and Python, thanks!
 This has been very informative to see the process and how you included AI in it.
 Half way through and just wanted to say this is very valuble content! Love the walkthrough type if content!
 You are amazing - this helped me so much - I am on the beginning of my journey and trying to find videos like this where people walk through what they've done. Yours is the best I've come across so far! TY!
